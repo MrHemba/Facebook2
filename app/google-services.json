@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "32059826460",
+    "project_id": "facebookauth-395b3",
+    "storage_bucket": "facebookauth-395b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32059826460:android:476ac7d2007c58947e1ad9",
+        "android_client_info": {
+          "package_name": "com.example.facebook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmFa1peU3zMC94eCNL19cmi6UJ1WaAdqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32059826460:android:ace515c9453be1567e1ad9",
+        "android_client_info": {
+          "package_name": "com.example.facebook2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmFa1peU3zMC94eCNL19cmi6UJ1WaAdqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32059826460:android:dc2eadda885a45f17e1ad9",
+        "android_client_info": {
+          "package_name": "com.example.implementfacebook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmFa1peU3zMC94eCNL19cmi6UJ1WaAdqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -2,6 +2,11 @@ public class MainActivity extends AppCompatActivity {
     private FirebaseAuth mAuth;
     private CallbackManager mCallbackManager;
 
+
+public class MainActivity extends AppCompatActivity {
+    private FirebaseAuth mAuth;
+    private CallbackManager mCallbackManager;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
